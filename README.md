@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/noman-aziz/noman-aziz/master/profile.gif)
+![](https://github.com/Noman-Aziz/Noman-Aziz/raw/main/profile.gif)
 
 ### Languages
 
