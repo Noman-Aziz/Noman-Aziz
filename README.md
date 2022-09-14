@@ -13,6 +13,7 @@
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Ionic](https://img.shields.io/badge/-Ionic-000?&logo=Ionic)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
