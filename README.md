@@ -18,6 +18,8 @@
 ![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform)
 ![Ansible](https://img.shields.io/badge/-Ansible-000?&logo=Ansible)
 
+![ExpressJs](https://img.shields.io/badge/-ExpressJs-000?&logo=express)
+![NestJs](https://img.shields.io/badge/-NestJs-000?&logo=nestjs)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Ionic](https://img.shields.io/badge/-Ionic-000?&logo=Ionic)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
