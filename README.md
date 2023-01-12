@@ -28,4 +28,9 @@
 ![GCP](https://img.shields.io/badge/-GCP-000?&logo=Google)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon)
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=noman-aziz&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noman-aziz&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+<a href="https://github.com/noman-aziz/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=noman-aziz&theme=dracula" />
+</a>
+<a href="https://github.com/noman-aziz/convoychat">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=noman-aziz&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=dracula" />
+</a>
